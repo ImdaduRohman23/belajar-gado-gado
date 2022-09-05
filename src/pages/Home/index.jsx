@@ -12,6 +12,10 @@ const Home = () => {
             <Link to='/cars'>
                 <button>Cari Mobil</button>
             </Link>
+
+            <Link to='/carsredux'>
+                <button>Cari Mobil Redux</button>
+            </Link>
             
         </div>
     )
